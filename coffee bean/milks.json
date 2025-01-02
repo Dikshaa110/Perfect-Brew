@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Whole Milk", "type": "Dairy", "price": 0.5},
+    {"id": 2, "name": "Skim Milk", "type": "Dairy", "price": 0.5},
+    {"id": 3, "name": "Oat Milk", "type": "Non-Dairy", "price": 0.7},
+    {"id": 4, "name": "Almond Milk", "type": "Non-Dairy", "price": 0.7},
+    {"id": 5, "name": "Coconut Milk", "type": "Non-Dairy", "price": 0.8}
+  ]
+  

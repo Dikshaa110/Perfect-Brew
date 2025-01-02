@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Espresso", "description": "Rich and intense shot of pure coffee", "price": 3.0},
+    {"id": 2, "name": "Americano", "description": "Espresso diluted with hot water", "price": 3.5},
+    {"id": 3, "name": "Latte", "description": "Smooth blend of espresso and steamed milk", "price": 4.0},
+    {"id": 4, "name": "Cappuccino", "description": "Espresso with steamed milk foam", "price": 4.5},
+    {"id": 5, "name": "Mocha", "description": "Espresso, chocolate, and steamed milk", "price": 5.0}
+  ]
+  

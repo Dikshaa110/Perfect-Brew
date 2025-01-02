@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Sugar", "type": "Sweetener", "price": 0.0},
+    {"id": 2, "name": "Honey", "type": "Sweetener", "price": 0.5},
+    {"id": 3, "name": "Stevia", "type": "Sweetener", "price": 0.3},
+    {"id": 4, "name": "Agave Syrup", "type": "Sweetener", "price": 0.5}
+  ]
+  

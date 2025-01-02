@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Vanilla Syrup", "type": "Syrup", "price": 0.3},
+    {"id": 2, "name": "Caramel Syrup", "type": "Syrup", "price": 0.3},
+    {"id": 3, "name": "Hazelnut Syrup", "type": "Syrup", "price": 0.4},
+    {"id": 4, "name": "Whipped Cream", "type": "Topping", "price": 0.5},
+    {"id": 5, "name": "Cinnamon Powder", "type": "Spice", "price": 0.2}
+  ]
+  
